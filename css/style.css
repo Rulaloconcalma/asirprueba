@@ -1,0 +1,17 @@
+@import "header.css";
+@import "main.css";
+@import "colores.css";
+@import "nav.css";
+@import "footer.css";
+@import "font.css";
+@import "vinculos.css";
+.contenedor{
+    width: 80vw;
+    height: 100vh;
+    margin: auto;
+    background-color: antiquewhite;
+    border-radius: 1%;
+}
+body{
+    background-color: var(--color-titulo-body);
+}

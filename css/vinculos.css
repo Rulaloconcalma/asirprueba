@@ -1,0 +1,40 @@
+.par{
+    width: 50%;
+    height: 100%;
+    float: left;
+    margin-right: 1%;
+}
+.estadisticas{
+    width: 45%;
+    height: 100%;
+    float: right;
+    margin-left: 1%;
+}
+table{
+    border: 1px solid;
+    width: 90%;
+    border-collapse: collapse;
+    margin-left: 1%;
+    margin: auto;
+
+}
+th, td{
+    border: 1px solid red;
+    text-align: center;
+    color: blue;
+}
+.tit{
+    color: #ec1313;
+    text-decoration: solid;
+    margin-left: 1%;
+}
+.mundial{
+    width: auto;
+}
+legend{
+    font-weight: bold;
+    color: #ec1313;
+}
+form{
+    margin-right: 2%;
+}
